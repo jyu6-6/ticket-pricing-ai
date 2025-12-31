@@ -1,0 +1,25 @@
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.DS_Store
+
+# Cloud credentials
+**/application_default_credentials.json
+.config/
+gcloud/
+
+# Data
+data/
+*.csv
+*.json
+
+# Local files
+master-spec.md

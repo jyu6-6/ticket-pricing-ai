@@ -1,0 +1,6 @@
+# Python dependencies
+streamlit>=1.23.0
+confluent-kafka>=2.3.0
+google-cloud-aiplatform>=1.38.0
+requests>=2.31.0
+python-dotenv>=1.0.0
