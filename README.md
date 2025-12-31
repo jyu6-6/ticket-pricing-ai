@@ -24,6 +24,13 @@ cp .env.example .env
 ```
 
 ### 3. Run the App
+
+**Demo Version** (safe for public deployment):
+```bash
+streamlit run app_demo.py
+```
+
+**Full Version** (local use only):
 ```bash
 streamlit run app.py
 ```
